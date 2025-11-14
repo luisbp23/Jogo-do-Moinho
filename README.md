@@ -1,2 +1,2 @@
 # Jogo-do-Moinho
-Projeto de LP
+Projeto em python
